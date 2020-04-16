@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Abstraction"/>
+	<classpathentry kind="src" path="Exceptions"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Polymorphism"/>
+	<classpathentry kind="src" path="DataTypes"/>
+	<classpathentry kind="src" path="Basics"/>
+	<classpathentry kind="src" path="Static_Final_This_Super"/>
+	<classpathentry kind="src" path="Collections"/>
+	<classpathentry kind="src" path="FileReading"/>
+	<classpathentry kind="src" path="SingleTon"/>
+	<classpathentry kind="src" path="ReasourceFiles"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
