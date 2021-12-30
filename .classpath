@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="Abstraction"/>
-	<classpathentry kind="src" path="Exceptions"/>
-	<classpathentry kind="src" path="Inheritance"/>
-	<classpathentry kind="src" path="Polymorphism"/>
-	<classpathentry kind="src" path="DataTypes"/>
-	<classpathentry kind="src" path="Basics"/>
-	<classpathentry kind="src" path="Static_Final_This_Super"/>
-	<classpathentry kind="src" path="Collections"/>
-	<classpathentry kind="src" path="FileReading"/>
-	<classpathentry kind="src" path="SingleTon"/>
+	<classpathentry kind="src" path="7_Abstraction"/>
+	<classpathentry kind="src" path="8_Exceptions"/>
+	<classpathentry kind="src" path="5_Inheritance"/>
+	<classpathentry kind="src" path="6_Polymorphism"/>
+	<classpathentry kind="src" path="3_DataTypes"/>
+	<classpathentry kind="src" path="4_Static_Final_This_Super"/>
+	<classpathentry kind="src" path="10_Collections"/>
+	<classpathentry kind="src" path="9_FileReading"/>
+	<classpathentry kind="src" path="11_SingleTon"/>
 	<classpathentry kind="src" path="ReasourceFiles"/>
+	<classpathentry kind="src" path="1_JavaBasics"/>
+	<classpathentry kind="src" path="12_JOptionPanel"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
